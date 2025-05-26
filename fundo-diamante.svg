@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px"
+	 height="100px" viewBox="0 0 100 100" xml:space="preserve">
+<style type="text/css">
+    .st18 {
+        fill: url(#radial-gradient);
+      }
+	.st0{fill:#000;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000005236299334305717690000014773059458430323606_);}
+	.st3{fill:url(#SVGID_00000173879647947611767610000010920450487689480077_);}
+	.st4{fill:url(#SVGID_00000091707014722352009480000013942884860039483280_);}
+	.st5{fill:url(#SVGID_00000134222440951668375060000005581094168814274223_);}
+	.st6{fill:url(#SVGID_00000028314536218426021330000008551260291350005690_);}
+	.st7{fill:url(#SVGID_00000167395913011551370940000012345129529306530202_);}
+	.st8{fill:url(#SVGID_00000080925767449901667800000009401271596194872234_);}
+	.st9{fill:url(#SVGID_00000176722011873209093440000013774676229147672229_);}
+	.st10{fill:url(#SVGID_00000083066268932790631390000012165138641328905394_);}
+	.st11{fill:url(#SVGID_00000115504781049336647260000006280804779170213537_);}
+	.st12{fill:url(#SVGID_00000140009384912461308640000014153845200529046183_);}
+	.st13{fill:url(#SVGID_00000111190273942013503540000016471959222747865783_);}
+	.st14{fill:url(#SVGID_00000151527469231005562220000014980892414040139660_);}
+	.st15{fill:url(#SVGID_00000000225067747998593020000013127297299592065443_);}
+	.st16{fill:url(#SVGID_00000013171536004617944570000006191453092831939982_);}
+	.st17{fill:url(#SVGID_00000047042829184563928560000000633196971508965511_);}
+
+</style>
+
+<defs>
+
+    <radialGradient id="radial-gradient" cx="100" cy="100" fx="100" fy="100" r="92.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".17" stop-color="#fff" stop-opacity=".78"/>
+      <stop offset=".4" stop-color="#fff" stop-opacity=".5"/>
+      <stop offset=".6" stop-color="#fff" stop-opacity=".29"/>
+      <stop offset=".78" stop-color="#fff" stop-opacity=".13"/>
+      <stop offset=".92" stop-color="#fff" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+
+<symbol id="brilho1">
+<g  transform="scale(0.2)">
+	
+		<radialGradient id="SVGID_1_" cx="-456.7047" cy="10175.998" r="53.6763" gradientTransform="matrix(1.01 -1.01 5.140000e-02 5.140000e-02 34.6196 -894.2689)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="7.706380e-02" style="stop-color:#FFFFFF;stop-opacity:0.9229"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path class="st1" d="M150.6,35.8c1.5,1.5-21.5,27-51.5,57c-29.9,29.9-55.5,53-57,51.5c-1.5-1.5,21.5-27,51.5-57
+		C123.6,57.3,149.1,34.3,150.6,35.8z"/>
+	
+		<radialGradient id="SVGID_00000034770236325068436450000017258286233623641219_" cx="-1138.2596" cy="22971.8867" r="35.5304" gradientTransform="matrix(0 -1.4284 7.270000e-02 0 -1573.6619 -1535.8409)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="7.706380e-02" style="stop-color:#FFFFFF;stop-opacity:0.9229"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<ellipse style="fill:url(#SVGID_00000034770236325068436450000017258286233623641219_);" cx="96.4" cy="90" rx="2.6" ry="50.8"/>
+	
+		<radialGradient id="SVGID_00000082355738722759907930000002918054689475727520_" cx="-435.7592" cy="-8341.8369" r="35.5304" gradientTransform="matrix(1.4284 0 0 7.270000e-02 718.8326 696.5006)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="7.706380e-02" style="stop-color:#FFFFFF;stop-opacity:0.9229"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<ellipse style="fill:url(#SVGID_00000082355738722759907930000002918054689475727520_);" cx="96.4" cy="90" rx="50.8" ry="2.6"/>
+	
+		<radialGradient id="SVGID_00000093157768615696050880000001606217624319311775_" cx="-2088.4951" cy="23221.7715" r="53.6763" gradientTransform="matrix(-1.01 -1.01 5.140000e-02 -5.140000e-02 -3206.585 -825.732)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="7.706380e-02" style="stop-color:#FFFFFF;stop-opacity:0.9229"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path style="fill:url(#SVGID_00000093157768615696050880000001606217624319311775_);" d="M42.2,35.8c1.5-1.5,27,21.5,57,51.5
+		c29.9,29.9,53,55.5,51.5,57c-1.5,1.5-27-21.5-57-51.5C63.7,62.9,40.6,37.4,42.2,35.8z"/>
+	
+		<radialGradient id="SVGID_00000013899578677896439030000009157711329528080005_" cx="96.3942" cy="91.3067" r="45.8708" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1647" style="stop-color:#FFFFFF;stop-opacity:0.55"/>
+		<stop  offset="0.2827" style="stop-color:#FFFFFF;stop-opacity:0.4723"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<circle style="fill:url(#SVGID_00000013899578677896439030000009157711329528080005_);" cx="96.4" cy="91.3" r="45.9"/>
+
+	<circle class="st18" cx="100" cy="100" r="92.5"/>
+
+</g>
+</symbol>
+
+</defs>
+
+  <!-- Background <rect width="100%" height="100%" fill="black" /> -->
+
+
+<use xlink:href="#brilho1" x="-5px" y="-5px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="1s"
+			 begin="-0.5s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="0px" y="10px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="3s"
+			 begin="-1s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="30px" y="0px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="3s"
+			 begin="-0.65s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="60px" y="10px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="1s"
+			 begin="-0.25s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="40px" y="55px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="3s"
+			 begin="-0.5s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="10px" y="65px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="1.5s"
+			 begin="-2s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="-5px" y="40px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="3s"
+			 begin="-0.45s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="20px" y="30px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="1.5s"
+			 begin="-0.5s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="60px" y="65px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="1.5s"
+			 begin="-0.35s"
+             repeatCount="indefinite" /></use>
+
+<use xlink:href="#brilho1" x="50px" y="30px">
+    <animate attributeName="opacity"
+             values="0; 0; 1; 0"
+			 keyTimes="0; 0.4; 0.5; 1"
+             dur="3s"
+			 begin="-0.15s"
+             repeatCount="indefinite" /></use>
+
+</svg>

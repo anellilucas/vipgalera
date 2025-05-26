@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="500px"
+	 height="2800px" viewBox="0 0 500 2800" xml:space="preserve">
+
+<style type="text/css">
+      .st0 {
+        fill: url(#radial-gradient);
+      }
+
+</style>
+
+<defs>
+
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" stop-color="#222" />
+    <stop offset="100%" stop-color="black" />
+    </linearGradient>
+
+    <radialGradient id="radial-gradient" cx="125" cy="125" fx="125" fy="125" r="98.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2d991"/>
+      <stop offset=".11" stop-color="#f2d991" stop-opacity=".8"/>
+      <stop offset=".24" stop-color="#f2d991" stop-opacity=".59"/>
+      <stop offset=".37" stop-color="#f2d991" stop-opacity=".41"/>
+      <stop offset=".5" stop-color="#f2d991" stop-opacity=".26"/>
+      <stop offset=".63" stop-color="#f2d991" stop-opacity=".15"/>
+      <stop offset=".75" stop-color="#f2d991" stop-opacity=".07"/>
+      <stop offset=".88" stop-color="#f2d991" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#f2d991" stop-opacity="0"/>
+    </radialGradient>
+
+<symbol id="brilho1">
+<g  transform="scale(0.05)">
+	
+  <image width="142" height="142" transform="translate(54 54)" xlink:href="data:image/png;base64,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"/>
+  <circle class="st0" cx="125" cy="125" r="98.8"/>
+
+</g>
+</symbol>
+
+</defs>
+
+  <!-- Background <rect width="100%" height="100%" fill="black" /> -->
+
+
+
+
+
+<!-- Linha 1 -->
+
+  <use xlink:href="#brilho1" x="29" y="1771">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.11s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="293" y="693">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.49s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="101" y="1601">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-1.56s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="135" y="1390">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.67s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="263" y="691">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-0.21s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="398" y="18">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="2.0s" begin="-0.82s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="223" y="22">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.73s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="158" y="1594">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-1.13s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="78" y="1328">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.63s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="73" y="694">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-1.00s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="211" y="944">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.36s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="103" y="2138">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.1s" begin="-0.13s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="198" y="1365">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.54s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="450" y="2333">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.16s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="281" y="2792">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.65s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="128" y="1035">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.1s" begin="-1.13s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="113" y="750">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.1s" begin="-0.43s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="26" y="1422">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-1.03s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="482" y="1711">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.75s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="184" y="1156">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.29s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="63" y="1989">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-1.25s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="168" y="1085">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.69s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="453" y="900">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-1.54s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="61" y="1022">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="2.0s" begin="-0.93s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="52" y="249">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-0.93s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="273" y="2093">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-1.21s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="142" y="2528">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-1.71s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="403" y="422">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.6s" begin="-1.12s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="51" y="1053">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-0.35s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="139" y="2067">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-1.35s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="251" y="1563">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.76s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="344" y="836">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.1s" begin="-0.77s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="131" y="435">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-1.70s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="225" y="2138">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.74s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="164" y="634">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.87s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="67" y="823">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.52s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="436" y="512">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-0.84s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="222" y="550">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.92s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="275" y="2476">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.12s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="144" y="1177">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.18s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="106" y="1002">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-1.07s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="230" y="2207">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.67s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="138" y="2239">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.1s" begin="-0.63s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="88" y="2589">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-0.87s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="170" y="274">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.6s" begin="-0.24s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="487" y="1876">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.93s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="190" y="1885">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.1s" begin="-0.23s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="77" y="315">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.19s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="397" y="2264">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-1.38s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="194" y="1805">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.6s" begin="-1.27s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="267" y="2525">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-1.14s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="422" y="332">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.63s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="252" y="1502">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.77s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="35" y="766">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-1.67s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="4" y="841">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.84s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="57" y="2088">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-0.59s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="225" y="2308">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-1.08s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="358" y="462">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.12s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="245" y="1443">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.71s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="213" y="508">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-0.42s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="233" y="1740">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.56s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="112" y="1763">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-1.12s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="166" y="554">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.73s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="294" y="2423">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.96s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="81" y="424">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-1.04s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="353" y="2262">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.35s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="306" y="2361">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.41s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="337" y="1810">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-1.20s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="332" y="1173">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-0.65s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="369" y="2119">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="2.0s" begin="-1.07s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="127" y="979">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.48s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="11" y="2783">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.33s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="137" y="1789">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.89s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="374" y="572">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.13s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="192" y="1090">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-1.80s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="259" y="390">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-1.06s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="203" y="2605">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.35s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="53" y="1050">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-0.98s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="150" y="1970">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-0.69s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="134" y="1858">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.5s" begin="-1.07s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="306" y="1314">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.89s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="67" y="2099">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.61s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="437" y="2140">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.69s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="216" y="2057">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.2s" begin="-1.06s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="9" y="300">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-1.32s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="226" y="999">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.96s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="452" y="1038">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.6s" begin="-0.16s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="22" y="2421">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.3s" begin="-0.82s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="11" y="2028">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.7s" begin="-0.68s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="205" y="1428">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.6s" begin="-1.04s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="15" y="966">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="2.0s" begin="-1.16s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="419" y="1476">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.90s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="101" y="692">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.6s" begin="-1.06s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="279" y="2469">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.57s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="338" y="559">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.9s" begin="-0.68s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="265" y="111">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-1.48s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="298" y="1137">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.88s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="475" y="2427">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="2.0s" begin="-1.24s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="13" y="395">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.4s" begin="-0.52s"
+             repeatCount="indefinite"/>
+  </use>
+  <use xlink:href="#brilho1" x="324" y="1725">
+    <animate attributeName="opacity" values="0; 0; 1; 0; 0"
+             keyTimes="0; 0.4; 0.5; 0.8; 1"
+             dur="1.8s" begin="-0.41s"
+             repeatCount="indefinite"/>
+  </use>
+
+
+</svg>
+

@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIP Page</title>
+    <style>
+
+        /* Gradiente Original               
+        rgba(100, 220, 255, 0.85) 0%,
+        rgba(150, 200, 255, 0.9) 4%,
+        rgba(200, 150, 255, 0.85) 8%,
+        rgba(255, 100, 250, 0.9) 12%,
+        rgba(255, 150, 220, 0.85) 16%,
+        rgba(255, 180, 180, 0.9) 20%,
+        rgba(255, 220, 100, 0.9) 24%,
+        rgba(255, 250, 150, 1) 28%,
+        rgba(200, 255, 100, 0.85) 32%,
+        rgba(150, 255, 150, 0.9) 36%,
+        rgba(100, 255, 200, 0.85) 40%,
+        rgba(120, 255, 250, 0.9) 44%,
+        rgba(100, 200, 255, 0.85) 48%,
+        rgba(150, 150, 255, 0.9) 52%,
+        rgba(180, 120, 255, 0.85) 56%,
+        rgba(220, 100, 255, 0.9) 60%,
+        rgba(255, 120, 240, 0.85) 64%,
+        rgba(255, 100, 200, 0.9) 68%,
+        rgba(255, 150, 150, 0.85) 72%,
+        rgba(255, 200, 120, 0.9) 76%,
+        rgba(255, 240, 100, 0.85) 80%,
+        rgba(220, 255, 150, 0.9) 84%,
+        rgba(180, 255, 200, 0.85) 88%,
+        rgba(150, 255, 240, 0.9) 92%,
+        rgba(120, 220, 255, 0.85) 96%,
+        rgba(100, 220, 255, 0.85) 100%, */
+        /* Gradiente Ouro    
+        rgba(191, 129, 21, 0.9) 0%,
+        rgba(225, 181, 73, 0.85) 25%,
+        rgba(241, 253, 25, 0.9) 35%,
+        rgba(186, 236, 32, 0.85) 44%,
+        rgba(113, 220, 255, 0.9) 47%,
+        rgba(170, 127, 255, 0.9) 50%,
+        rgb(255, 127, 137) 53%,
+        rgba(255, 150, 113, 0.85) 56%,
+        rgba(241, 253, 25, 0.9) 65%,
+        rgba(255, 234, 116, 0.85) 75%,
+        rgba(191, 129, 21, 0.9) 100%, */
+        /* Gradiente Azul Roxo
+            background: radial-gradient(
+            rgb(70, 255, 181) 0%,
+            rgb(50, 211, 255) 30%,
+            rgb(79, 114, 255) 70%,
+            rgba(173, 92, 255, 0.9) 100%
+            ); */
+
+        :root {
+            --card-width: 420px;
+            --card-height: 300px;
+            --card-border-radius: 5px;
+        }
+
+        body {
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: #1e1e1e;
+            padding: 50px 0;
+            gap: 50px;
+        }
+
+        .card-wrapper {
+            display: flex;
+            flex-direction: row;
+            position: relative;
+            width: var(--card-width);
+            height: var(--card-height);
+            perspective: 200px;
+        }
+
+        .card {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            border-radius: var(--card-border-radius);
+            transform-style: preserve-3d;
+            box-shadow: 0 5px 7px rgba(0, 0, 0, 0.8);
+            overflow: hidden;
+        }
+
+        .card-glow {
+            mix-blend-mode: overlay;
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            border-radius: var(--card-border-radius);
+            background: radial-gradient(circle at var(--x, 20%) var(--y, 20%), 
+                                rgba(255, 255, 255, 0.8) 0%, 
+                                rgba(255, 255, 255, 0) 50%);
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+        }
+
+        .card-background {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0%;
+            left: 0%;
+            background-size: cover;
+            background-position: center;
+            transition: transform 0.3s ease-out;
+            border-radius: var(--card-border-radius);
+        }
+        
+        .shine-ouro {
+            scale: 0.93 ;
+            mask-image: url('overlay-ouro2.webp');
+            mask-size: cover;
+            mask-repeat: no-repeat;
+            mask-position: center;
+            -webkit-mask-image: url('overlay-ouro2.webp');
+            -webkit-mask-size: cover;
+            -webkit-mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(
+                rgba(191, 129, 21, 0.95) 0%,
+                rgba(225, 181, 73, 0.95) 20%,
+                rgba(255, 235, 50, 0.95) 40%,
+                rgba(181, 116, 26, 0.95) 60%,
+                rgba(146, 91, 18, 0.95) 80%,
+                rgba(120, 78, 10, 0.95) 100%
+            );
+            background-size: 53% 53%;
+            background-position: 10% 0%;
+            transition: background-position 0.1s ease-out;
+        }
+
+        .shine-diamante {
+            scale: 0.93 ;
+            mask-image: url('overlay-diamond2.webp');
+            mask-size: cover;
+            mask-repeat: no-repeat;
+            mask-position: center;
+            -webkit-mask-image: url('overlay-diamond2.webp');
+            -webkit-mask-size: cover;
+            -webkit-mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background:
+            
+            url('diamante-textura9.webp'),
+
+            radial-gradient(
+                rgba(154, 154, 154, 0.85) 0%,
+                rgba(160, 160, 160, 0.9) 50%,
+                rgba(214, 214, 214, 0.85) 100%
+            );
+            background-size: 65% 76%;
+            background-position: 2% -5%;
+            transition: background-position 0.1s ease-out;
+        }
+
+        .shine-black {
+            scale: 0.93 ;
+            mask-image: url('overlay-black.webp');
+            mask-size: cover;
+            mask-repeat: no-repeat;
+            mask-position: center;
+            -webkit-mask-image: url('overlay-black.webp');
+            -webkit-mask-size: cover;
+            -webkit-mask-repeat: no-repeat;
+            -webkit-mask-position: center;
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('black-texture2.webp'),
+            
+            linear-gradient(
+
+                45deg,
+                transparent 0%,
+                rgba(0, 0, 0, 0.85) 0%,
+                rgba(71, 63, 41, 0.9) 12%,
+                rgb(40, 38, 36) 20%,
+                rgba(20, 20, 20, 0.85) 32%,
+                rgba(29, 29, 29, 0.9) 37%,
+                rgba(23, 23, 23, 0.85) 44%,
+                rgba(0, 0, 0, 0.9) 58%,
+                rgba(137, 117, 84, 0.9) 67%,
+                rgba(113, 94, 67, 0.9) 73%,
+                rgba(19, 19, 19, 0.85) 76%,
+                rgba(19, 19, 19, 0.85) 100%,
+                transparent 100%
+            );
+            background-size: 200% 120%;
+            background-position: 0% 0%;
+            transition: background-position 0.1s ease-out;
+        }
+    
+    </style>
+</head>
+
+<body>
+
+<!-- Diamante -->
+<div class="container"><div class="card-wrapper">
+
+    <div class="card">
+    <div class="card-background"
+    style="background-image: url('diamante-textura4.webp')"></div>
+    <div class="shine-animation shine-diamante"></div>
+    <div class="card-glow"></div>
+    
+</div></div></div>
+
+<!-- Ouro -->
+<div class="container"><div class="card-wrapper">
+
+    <div class="card">
+    <div class="card-background"
+    style="background-image: url('bg-ouro.webp')"></div>
+    <div class="shine-animation shine-ouro"></div>
+    <div class="card-glow"></div>
+    
+</div></div></div>
+
+<!-- Black -->
+<div class="container"><div class="card-wrapper">
+
+    <div class="card">
+    <div class="card-background"
+    style="background-image: url('black-texture1.webp')"></div>
+    <div class="shine-animation shine-black"></div>
+    <div class="card-glow"></div>
+    
+</div></div></div>
+
+
+</body>
+
+<script>
+// Set up parallax effect for each card
+document.querySelectorAll('.card').forEach(card => {
+    const background = card.querySelector('.card-background');
+    const shine = card.querySelector('.shine-animation');
+    const glow = card.querySelector('.card-glow');
+    const content = card.querySelector('.card-content');
+    
+    // Track mouse movements on the card
+    let isFirstMove = true;
+    
+    card.addEventListener('mousemove', e => {
+        // On first mouse move after entering, use a short transition
+        if (isFirstMove) {
+            card.style.transition = 'transform 0.2s ease-out';
+            glow.style.transition = 'opacity 0.2s ease-out';
+            shine.style.transition = 'background-position 0.2s ease-out';
+            isFirstMove = false;
+            
+            // Remove transitions after the initial smooth entry
+            setTimeout(() => {
+                card.style.transition = 'none';
+                glow.style.transition = 'none';
+                shine.style.transition = 'none';
+            }, 200);
+        }
+        
+        // Calculate mouse position relative to the card
+        const rect = card.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        
+        // Calculate mouse position in percentage
+        const xPercent = x / rect.width;
+        const yPercent = y / rect.height;
+        
+        // Update glow position
+        glow.style.setProperty('--x', `${xPercent * 100}%`);
+        glow.style.setProperty('--y', `${yPercent * 100}%`);
+        glow.style.opacity = '1';
+        
+        // Calculate tilt amount (max 15 degrees)
+        const tiltX = (yPercent - 0.5) * 15;
+        const tiltY = (0.5 - xPercent) * 15;
+        
+        // Apply the tilt
+        card.style.transform = `rotateX(${tiltX}deg) rotateY(${tiltY}deg)`;
+                        
+        // Update shine effect
+        shine.style.backgroundPosition = `${xPercent * 100}% ${yPercent * 100}%`;
+    });
+    
+    card.addEventListener('mouseleave', () => {
+        // Add smooth transition back when mouse leaves
+        card.style.transition = 'transform 0.6s ease-out';
+        glow.style.transition = 'opacity 0.4s ease-out';
+        shine.style.transition = 'background-position 0.4s ease-out';
+        
+        // Reset to original state
+        card.style.transform = 'rotateX(0) rotateY(0)';
+        background.style.transform = 'translateX(0) translateY(0)';
+        shine.style.backgroundPosition = '0% 0%';
+        glow.style.opacity = '0';
+    });
+    
+    card.addEventListener('mouseenter', () => {
+        // Reset the first move flag when mouse enters
+        isFirstMove = true;
+    });
+});
+    </script>
+
+</html>
